@@ -1,0 +1,6 @@
+framework module Pods_CocoaPodsKullanimi {
+  umbrella header "Pods-CocoaPodsKullanimi-umbrella.h"
+
+  export *
+  module * { export * }
+}
